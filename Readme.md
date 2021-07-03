@@ -10,9 +10,8 @@ Database url :http://localhost:(port)/h2-console
 
 The values to be added in the database
 
-ID  	ADDRESS  	                      AGE  	MOBILE  	  NAME  	ZIPCODE  
-1	  Airport Road,Bangalore	          24	1234567890	  ABC	    123456
-2	  Near Majestic Bustand,1st cross	  23	9876543210	  DEF   	654321
+![image](https://user-images.githubusercontent.com/68999323/124352826-7aaaa500-dc20-11eb-9925-9f6e865c3639.png)
+
 
 
 
