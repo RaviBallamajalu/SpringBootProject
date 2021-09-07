@@ -1,0 +1,6 @@
+apiVersion: apps/v1
+kind: Deplyoment
+metadata:
+  labels:
+    app: MyRepository
+  name: MyRepository
