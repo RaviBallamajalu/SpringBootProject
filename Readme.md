@@ -2,9 +2,7 @@
 
 
 This is a simple Spring boot project
-
 Here h2 database is used and an api to fetch the data from the Database.
-
 Database url :http://localhost:(port)/h2-console
 
 
